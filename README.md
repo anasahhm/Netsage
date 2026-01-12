@@ -42,5 +42,11 @@ Encrypted router credentials (production)
 
 
 
-# I HAVE ADDED ONLY README RN , WILL BE PUSHING ENTIRE CODE IN 2 DAYS 
+# I HAVE ADDED ONLY README NAD CONTRIBUTING GUIDELINES RN , WILL BE PUSHING ENTIRE CODE IN 2 DAYS 
+
+## 🤝 Contributing
+
+This repository uses a collaborator-based workflow.
+
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before making any changes.
 
