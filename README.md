@@ -35,3 +35,12 @@ Bcrypt password hashing
 JWT authentication with 24-hour expiration
 Company data isolation
 Encrypted router credentials (production)
+
+
+
+
+
+
+
+# I HAVE ADDED ONLY README RN , WILL BE PUSHING ENTIRE CODE IN 2 DAYS 
+
