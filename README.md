@@ -4,6 +4,7 @@ An application for managing and monitoring network routers with real-time analyt
 # Features
 
 🔐 Multi-user Support - Secure authentication with JWT & data isolation
+
 📊 Real-Time Monitoring - Live bandwidth, CPU, and memory usage tracking
 🤖 Automated Collection - Scheduled data collection every 5 minutes via SSH
 📈 Interactive Charts - Beautiful visualizations with historical data
